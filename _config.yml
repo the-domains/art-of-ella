@@ -1,0 +1,28 @@
+name: Art of Ella
+favicon: null
+layout_spectrum: 0.6102466052398086
+typography_spectrum: 0.9863591801840812
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.21421173820272088
+  lightness: 0.34931327402591705
+  saturation: 0.013653163565322757
+  rhythmicContrast: 0.0497782037127763
+purpose: []
